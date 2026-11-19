@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+backend/debug/
+sounds/captures/
+references/
+frontend/node_modules/
+frontend/dist/
